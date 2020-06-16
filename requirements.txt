@@ -1,0 +1,7 @@
+discord.py
+asyncio
+datetime
+calender
+requests
+bs4
+random
