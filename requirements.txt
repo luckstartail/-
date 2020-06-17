@@ -2,4 +2,4 @@ discord.py
 asyncio
 datetime
 requests
-bs4
+beautifulsoup4
