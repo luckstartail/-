@@ -330,4 +330,4 @@ async def on_message(message):
             
 
 #디코봇가동
-client.run('NjkxMjE0NTE3ODA3NjExOTQ0.XuF4xw.i4KSB2aSjM57TFm-DfztVvk-bkQ')
+client.run('NjkxMjE0NTE3ODA3NjExOTQ0.XuoV0g.vcnbR-B0K2SVSTNNq5sI3DBspz4')
