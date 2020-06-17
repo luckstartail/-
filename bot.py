@@ -4,7 +4,6 @@ import asyncio
 import datetime
 import calendar
 import requests
-import os
 from bs4 import BeautifulSoup
 import random
 serverid=None
@@ -331,4 +330,4 @@ async def on_message(message):
             
 
 #디코봇가동
-client.run(os.environ['NjkxMjE0NTE3ODA3NjExOTQ0.XuF4xw.i4KSB2aSjM57TFm-DfztVvk-bkQ'])
+client.run('NjkxMjE0NTE3ODA3NjExOTQ0.XuF4xw.i4KSB2aSjM57TFm-DfztVvk-bkQ')
